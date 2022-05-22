@@ -1,0 +1,16 @@
+{
+    "friends": [
+        {
+            "name": "Anna",
+            "degree": "Applied Computing"
+        },
+        {
+            "name": "Lolo",
+            "degree": "Physics"
+        },
+        {
+            "name": "Rolf",
+            "degree": "Computing"
+        }
+    ]
+}
