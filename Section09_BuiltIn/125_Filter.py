@@ -11,3 +11,7 @@ print(next(start_with_a))
 geb = (x for x in friends if x.startswith('A'))
 print(type(geb))
 print(type(start_with_a))
+
+fmap = map(lambda x: x.lower(), friends)
+print('x' * 60)
+print(list(fmap))
