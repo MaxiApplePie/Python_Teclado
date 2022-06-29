@@ -1,0 +1,17 @@
+[
+    {
+        "name": "bob",
+        "author": "mike",
+        "read": false
+    },
+    {
+        "name": "Mybook",
+        "author": "Lolo",
+        "read": true
+    },
+    {
+        "name": "lakhfgdv",
+        "author": "lkahfgl",
+        "read": false
+    }
+]
